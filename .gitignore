@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+yolotest.txt
+yolov8n.pt
+extracted_frames/
+
+*.mp4
